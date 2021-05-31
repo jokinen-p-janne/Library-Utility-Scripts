@@ -1,0 +1,6 @@
+library-utility-scripts.code-workspace
+env/
+data/
+.flake8
+output.csv
+.vscode/
